@@ -71,7 +71,8 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feel free to open an issue if you encounter any problems or have suggestions for improvements.
-
+📊 Flowchart
+Below is a flowchart illustrating the user management process:
 Happy scripting!
 
 ### Key Points in This `README.md`:
